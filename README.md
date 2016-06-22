@@ -66,10 +66,26 @@ from product design to back-end implementation.
 
 ### 72andSunny
 
+* Held weekly meetings discussing development trends/best practices with developers
+* Frontend developer of high traffic micro sites
+* Lead Frontend developer on Carls Jr and Hardees redesign
+* Maintain frontend updates to current CKE websites (Carls Jr, Hardees)
+* Maintained and updated CKE facebook pages and apps
+* Maintained and updated 2ksports facebook page and MLB online updates
+
+
 ### Comcast Entertainment Group
 
 #### G4
 #### E! Online
 #### Style Network
+
+* Lead for frontend (X)HTML/CSS/JavaScript solutions adhering to W3C standards and semantic web principles
+* Developer for many social intergration projects for CEG (celebritweet)
+* Held monthly meetings discussing frontend development trends/best practices with developers and engineers
+* Developed JavaScript/AJAX-heavy tools for custom CMS
+* Frontend development of initial MyStyle site launch (Aug. 2007)
+* Lead developer for all E! Online content: site-wide architecture, many redesigns (front door, navigation, photo galleries)
+
 
 
