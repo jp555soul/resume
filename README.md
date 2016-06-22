@@ -1,5 +1,14 @@
 # Jason Paul
 
+I'm a software and product developer by trade and by passion, but also a
+well-rounded individual who pursues excellence in a variety of fields from
+music and art to athletics. I'm seeking a position working with high-volume
+applications with unique technical challenges as well as a chance to contribute
+in a meaningful way to product direction and strategy. I bring experience with
+every level of the Internet application stack as well as an engaging
+personality and eagerness to be very hands-on with all aspects of the process
+from product design to back-end implementation.
+
 ## Contact
 
 * 11711 Avon Way #2, Los Angeles, CA
