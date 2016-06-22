@@ -104,15 +104,8 @@ from product design to back-end implementation.
 
 * Communication Technology 
 
-## Interests
+## Interests/Activites
 
-#### www
-* code
-* social networks
-* music
-* UX
-
-#### Activites
 * NCAA National Fencing Champion
 * US National Fencing Team Member 
 * Basketball
