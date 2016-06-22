@@ -41,4 +41,26 @@
 | Haml 			| 3 			|
 | Sass 			| 3 			|
 
+## Experience 
+
+### Naughty Dog
+
+* Held weekly meetings discussing development trends/best practices with Directior of Communications
+* Complete redesign of front end
+* Front and backend developer of Uncharted 3 multiplayer game stats
+* Brand microsite development
+* Social site developments
+* Analytic setup, research, and reports
+* Mobile development
+* Tools development for various teams
+
+
+### 72andSunny
+
+### Comcast Entertainment Group
+
+#### G4
+#### E! Online
+#### Style Network
+
 
