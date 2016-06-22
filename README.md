@@ -52,16 +52,16 @@ from product design to back-end implementation.
 
 ## URLs
 
-* [naughtydog.com](www.naughtydog.com "Craft CMS")
-* [unchartedthegame.com](www.unchartedthegame.com "Wordpress")
-* [thelastofus.com](www.thelastofus.com "Static HTML")
-* [savagestarlight.com](www.savagestarlight.com "Static HTML")
-* [carlsjr.com](www.carlsjr.com "RoR Custom Build") 
-* [hardees.com](www.hardees.com "RoR Custom Build") 
-* [eonline.com](www.eonline.com "JSP Custom Build")
-* [fearnet.com](www.fearnet.com "JSP Custom Build")
-* [mystyle.com](www.mystyle.com "JSP Custom Build")
-* [g4tv.com](www.g4tv.com ".Net Custom Build")
+* [naughtydog.com](http://www.naughtydog.com "Craft CMS")
+* [unchartedthegame.com](http://www.unchartedthegame.com "Wordpress")
+* [thelastofus.com](http://www.thelastofus.com "Static HTML")
+* [savagestarlight.com](http://www.savagestarlight.com "Static HTML")
+* [carlsjr.com](http://www.carlsjr.com "RoR Custom Build") 
+* [hardees.com](http://www.hardees.com "RoR Custom Build") 
+* [eonline.com](http://www.eonline.com "JSP Custom Build")
+* [fearnet.com](http://www.fearnet.com "JSP Custom Build")
+* [mystyle.com](http://www.mystyle.com "JSP Custom Build")
+* [g4tv.com](http://www.g4tv.com ".Net Custom Build")
 
 
 ## Experience 
