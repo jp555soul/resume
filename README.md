@@ -75,8 +75,7 @@ from product design to back-end implementation.
 
 
 ### Comcast Entertainment Group
-
-&ensp;##### G4TV - E! Online - Style Network
+##### G4TV - E! Online - Style Network
 
 * Lead for frontend (X)HTML/CSS/JavaScript solutions adhering to W3C standards and semantic web principles
 * Developer for many social intergration projects for CEG (celebritweet)
