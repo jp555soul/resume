@@ -50,6 +50,20 @@ from product design to back-end implementation.
 | Haml 			| 3 			|
 | Sass 			| 3 			|
 
+## URLs
+
+* [naughtydog.com](naughtydog.com "Craft CMS")
+* [unchartedthegame.com](unchartedthegame.com "Wordpress")
+* [thelastofus.com](thelastofus.com "Static HTML")
+* [savagestarlight.com](savagestarlight.com "Static HTML")
+* [carlsjr.com](carlsjr.com "RoR Custom Build") 
+* [hardees.com](hardees.com "RoR Custom Build") 
+* [eonline.com](eonline.com "JSP Custom Build")
+* [fearnet.com](fearnet.com "JSP Custom Build")
+* [mystyle.com](mystyle.com "JSP Custom Build")
+* [g4tv.com](g4tv.com ".Net Custom Build")
+
+
 ## Experience 
 
 ### Naughty Dog
