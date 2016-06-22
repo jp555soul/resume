@@ -84,5 +84,11 @@ from product design to back-end implementation.
 * Frontend development of initial MyStyle site launch (Aug. 2007)
 * Lead developer for all E! Online content: site-wide architecture, many redesigns (front door, navigation, photo galleries)
 
+## Education
+
+### Ohio State University - 2007
+
+* Communication Technology 
+
 
 
