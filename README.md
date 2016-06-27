@@ -10,9 +10,6 @@ personality and eagerness to be very hands-on with all aspects of the process
 from product design to back-end implementation.
 
 ## Contact
-
-[comment]: <> (11711 Avon Way #2, Los Angeles, CA)
-[comment]: <> (614-316-3626)
 * [jp555soul@gmail.com](jp555soul@gmail.com "Email me!")
 
 ## Knowledge
