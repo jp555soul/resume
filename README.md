@@ -1,9 +1,8 @@
 # Jason Paul
 
 I'm a software and product developer by trade and by passion, but also a
-well-rounded individual who pursues excellence in a variety of fields from
-music and art to athletics. I'm seeking a position working with high-volume
-applications with unique technical challenges as well as a chance to contribute
+well-rounded individual who pursues knowledge in a variety of fields and subjects. 
+I'm seeking a position working with high-volume applications with unique technical challenges as well as a chance to contribute
 in a meaningful way to product direction and strategy. I bring experience with
 every level of the Internet application stack as well as an engaging
 personality and eagerness to be very hands-on with all aspects of the process
@@ -65,12 +64,14 @@ from product design to back-end implementation.
 ### Naughty Dog
 
 * Held weekly meetings discussing development trends/best practices with Directior of Communications
-* Complete redesign of front end
-* Front and backend developer of Uncharted 3 multiplayer game stats
+* Transitioned physical box site to cloud solution
+* Complete redesign of front-end site and back-end tools for naughtydog.com
+* Managed and developed unchartedthegame.com 
+* Managed and developed thelastofus.com
+* Front and backend developer of Uncharted 3 multiplayer game stats - deprecated
 * Brand microsite development
-* Social site developments
+* Social tools intergration
 * Analytic setup, research, and reports
-* Mobile development
 * Tools development for various teams
 
 
