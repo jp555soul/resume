@@ -9,7 +9,7 @@ personality and eagerness to be very hands-on with all aspects of the process
 from product design to back-end implementation.
 
 ## Contact
-* [jp555soul@gmail.com](jp555soul@gmail.com "Email me!")
+* <jp555soul@gmail.com>
 
 ## Knowledge
 
