@@ -103,7 +103,7 @@ from product design to back-end implementation.
 
 ## Interests/Activites
 
-* NCAA National Fencing Champion
+* 2004 NCAA National Fencing Champion
 * US National Fencing Team Member 
 * Basketball
 * Motorsports Racing
