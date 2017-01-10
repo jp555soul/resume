@@ -65,9 +65,9 @@ from product design to back-end implementation.
 
 * Held weekly meetings discussing development trends/best practices with Directior of Communications
 * Transitioned physical box site to cloud solution
-* Complete redesign of front-end site and back-end tools for naughtydog.com - CraftCMS
-* Managed and developed unchartedthegame.com - WordPress
-* Managed and developed thelastofus.com - Static
+* Complete redesign of front-end site and back-end tools for [naughtydog.com](http://www.naughtydog.com "Craft CMS") - CraftCMS
+* Managed and developed [unchartedthegame.com](http://www.unchartedthegame.com "Wordpress") - WordPress
+* Managed and developed [thelastofus.com](http://www.thelastofus.com "Static HTML") - Static
 * Front and backend developer of Uncharted 3 multiplayer game stats - deprecated
 * Brand microsite development
 * Social tools intergration
