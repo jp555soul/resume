@@ -73,7 +73,6 @@ from product design to back-end implementation.
 * Social Media tools integration: Facebook, Twitter, etc
 * Analytic setup, research, and reports: Google Anayltics, Omniture, Custom PHP A/B testing
 * Tools development for various teams: assisted in creation and development of internal tools
-
 * Shipped:
 	* Uncharted 3: Drake's Deception (PS3)
 	* The Last of Us (PS3)
