@@ -70,7 +70,7 @@ from product design to back-end implementation.
 * Contributed to RFP, selected third-party vendor, lead third-party development team and took on development of [thelastofus.com](http://www.thelastofus.com "Static HTML") - Static
 * Client and backend developer of Uncharted 3 multiplayer game stats (PHP). Worked with game team to create multiplayer game stats JSON API, showing user data throughout their game play history. Lead design in stats visualization and UX. - deprecated
 * Created network of brand micro sites to further the meta story of the main The Last of Us story
-* Social Media tools intergration: Facebook, Twitter, etc
+* Social Media tools integration: Facebook, Twitter, etc
 * Analytic setup, research, and reports: Google Anayltics, Omniture, Custom PHP A/B testing
 * Tools development for various teams: assisted in creation and development of internal tools
 
@@ -89,7 +89,7 @@ from product design to back-end implementation.
 ##### G4TV - E! Online - Style Network
 
 * Lead for frontend (X)HTML/CSS/JavaScript solutions adhering to W3C standards and semantic web principles
-* Developer for many social intergration projects for CEG (celebritweet)
+* Developer for many social integration projects for CEG (celebritweet)
 * Held monthly meetings discussing frontend development trends/best practices with developers and engineers
 * Developed JavaScript/AJAX-heavy tools for custom CMS
 * Frontend development of initial MyStyle site launch (Aug. 2007)
