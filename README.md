@@ -63,16 +63,16 @@ from product design to back-end implementation.
 
 ### Naughty Dog
 
-* Held weekly meetings discussing development trends/best practices with Directior of Communications
-* Transitioned physical box site to cloud solution
+* Held weekly meetings discussing development web trends/best practices as well as tasks (pseudo Scrum) with Directior of Communications and Lead Designer 
+* Transitioned studio site from physical box site to proprietary eco-cloud solution which included autoscaling for a responsive and scalable produtction hosting environment.
 * Complete redesign of front-end site and back-end tools for [naughtydog.com](http://www.naughtydog.com "Craft CMS") - CraftCMS
-* Managed and developed [unchartedthegame.com](http://www.unchartedthegame.com "Wordpress") - WordPress
-* Managed and developed [thelastofus.com](http://www.thelastofus.com "Static HTML") - Static
-* Front and backend developer of Uncharted 3 multiplayer game stats - deprecated
-* Brand microsite development
-* Social tools intergration
-* Analytic setup, research, and reports
-* Tools development for various teams
+* Contributed to RFP, selected third-party vendor, lead third-party development team and took on development of [unchartedthegame.com](http://www.unchartedthegame.com "Wordpress") - WordPress
+* Contributed to RFP, selected third-party vendor, lead third-party development team and took on development of [thelastofus.com](http://www.thelastofus.com "Static HTML") - Static
+* Client and backend developer of Uncharted 3 multiplayer game stats (PHP). Worked with game team to create multiplayer game stats JSON API, showing user data throughout their game play history. Lead design in stats visualization and UX. - deprecated
+* Created network of brand micro sites to further the meta story of the main The Last of Us story
+* Social Media tools intergration: Facebook, Twitter, etc
+* Analytic setup, research, and reports: Google Anayltics, Omniture, Custom PHP A/B testing
+* Tools development for various teams: assisted in creation and development of internal tools
 
 
 ### 72andSunny
