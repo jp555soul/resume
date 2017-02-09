@@ -45,6 +45,8 @@ from product design to back-end implementation.
 | RoR 			| 3 			|
 | Haml 			| 3 			|
 | Sass 			| 3 			|
+| React 		| 1 			|
+| Angular 		| 1 			|
 
 ## URLs
 
