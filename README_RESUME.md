@@ -2,7 +2,7 @@
 
 I'm a software and product developer by trade and by passion, but also a
 well-rounded individual who pursues knowledge in a variety of fields and subjects. 
-I'm seeking a position working with high-volume applications with unique technical challenges as well as a chance to contribute
+I'm seeking a position working with high-volume applications and tools development with unique technical challenges as well as a chance to contribute
 in a meaningful way to product direction and strategy. I bring experience with
 every level of the Internet application stack as well as an engaging
 personality and eagerness to be very hands-on with all aspects of the process
@@ -15,41 +15,49 @@ jp555soul@gmail.com
 
 | Language      | Time          |
 | ------------- |:-------------:|
-| XHTML      	| 9 			|
-| Java      	| 3 			|
-| JavaScript 	| 9 			|
+| XHTML      	| 11 			|
+| Java      	| 5 			|
+| JavaScript 	| 12 			|
 | Struts 		| 3 			|
-| PHP 			| 7 			|
-| XML 			| 9 			|
-| AJAX 			| 9 			|
-| MySQL 		| 7 			|
-| CSS 			| 9 			|
-| HTML 			| 9 			|
-| JSON 			| 9 			|
+| PHP 			| 10 			|
+| XML 			| 12 			|
+| AJAX 			| 12 			|
+| MySQL 		| 11 			|
+| CSS 			| 12 			|
+| HTML 			| 12 			|
+| JSON 			| 12 			|
 | Prototype 	| 3 			|
-| RSS 			| 9 			|
+| RSS 			| 12 			|
 | JSP 			| 3 			|
 | Android 		| 5 			|
-| DOM 			| 7 			|
-| WordPress 	| 5 			|
+| DOM 			| 10 			|
+| WordPress 	| 8 			|
 | YUI 			| 3 			|
-| jQuery 		| 9 			|
+| jQuery 		| 12 			|
 | Subversion 	| 3 			|
-| Photoshop 	| 9 			|
-| TinyMCE 		| 5 			|
-| HTML5 		| 5 			|
-| CSS3 			| 5 			|
+| Photoshop 	| 12 			|
+| TinyMCE 		| 8 			|
+| HTML5 		| 8 			|
+| CSS3 			| 8 			|
 | C# 			| 3 			|
 | Python 		| 4 			|
-| MVC 			| 5 			|
+| MVC 			| 11 			|
 | RoR 			| 3 			|
 | Haml 			| 3 			|
-| Sass 			| 3 			|
-| React 		| 1 			|
-| Angular 		| 1 			|
+| Sass 			| 5 			|
+| React 		| 3 			|
+| Angular 		| 3 			|
+| Shopify 		| 5 			|
 
 ## URLs
 
+* [store.annapurna.pictures](https://store.annapurna.pictures "Shopify")
+* [kentuckyroutezero.com](http://kentuckyroutezero.tv/ "Craft CMS")
+* [florencegame.com](http://www.florencegame.com/ "Craft CMS") 
+* [wattamgame.com](http://www.wattamgame.com/ "Craft CMS") 
+* [thepathless.com](http://www.thepathless.com/ "Craft CMS") 
+* [outerwilds.com](http://outerwilds.com/ "Craft CMS") 
+* [annapurna.pictures](http://annapurna.pictures "Custom Node CMS") 
 * [naughtydog.com](http://www.naughtydog.com "Craft CMS")
 * [unchartedthegame.com](http://www.unchartedthegame.com "Wordpress")
 * [thelastofus.com](http://www.thelastofus.com "Static HTML")
@@ -63,7 +71,37 @@ jp555soul@gmail.com
 
 ## Experience 
 
-### Naughty Dog
+### Annapurna Pictures/Annpurna Interactive - Director of Technology
+
+* Maintain all software across all properties: film, interactive, theater, etc
+* Marketing and tools development across all properties
+* Lead internal and external teams 
+* Negotiated new vendors and contracts while also maintaining budgests
+* Shipped:
+	* Games: 
+		* Gorogoa
+		* Florence
+		* Donut County
+		* Wattam
+		* Outer Wilds
+		* Kentucky Route Zero: TV Edition
+		* The Artful Escape
+		* The Pathless
+	* Films:
+		* Booksmart
+		* Missing Link
+		* Where'd You Go Bernadette
+		* Vice
+		* Destroyer
+		* If Beale Street Could Talk
+		* The Ballad of Buster Scruggs
+		* The Sisters Brothers
+		* Sorry To Bother You
+		* Phantom Thread
+		* Professor Marston & The Wonder Women
+		* Detroit
+
+### Naughty Dog - Software Engineer
 
 * Held weekly meetings discussing development web trends/best practices as well as tasks (pseudo Scrum) with Directior of Communications and Lead Designer 
 * Transitioned studio site from physical box site to proprietary eco-cloud solution which included autoscaling for a responsive and scalable produtction hosting environment.
@@ -82,7 +120,7 @@ jp555soul@gmail.com
 	* Uncharted: The Nathan Drake Collection (PS4)
 
 
-### 72andSunny
+### 72andSunny - Web Developer
 
 * Held weekly meetings discussing development trends/best practices with developers
 * Frontend developer of high traffic micro sites
@@ -92,7 +130,7 @@ jp555soul@gmail.com
 * Maintained and updated 2ksports facebook page and MLB online updates
 
 
-### Comcast Entertainment Group
+### Comcast Entertainment Group - Web Developer
 ##### G4TV - E! Online - Style Network
 
 * Lead for frontend (X)HTML/CSS/JavaScript solutions adhering to W3C standards and semantic web principles
