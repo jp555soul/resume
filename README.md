@@ -1,118 +1,91 @@
 # Jason Paul
 
-I'm a software and product developer by trade and by passion, but also a
-well-rounded individual who pursues knowledge in a variety of fields and subjects. 
-I'm seeking a position working with high-volume applications and tools development with unique technical challenges as well as a chance to contribute
-in a meaningful way to product direction and strategy. I bring experience with
-every level of the Internet application stack as well as an engaging
-personality and eagerness to be very hands-on with all aspects of the process
-from product design to back-end implementation.
+I'm Jason 👋, a Technology Consultant 🌎 and Futurist 🧠 based in LA 🏙 with over a decade of software experience 💻 across the full range of the tech stack as well as timeline planning, site design and implementation, marketing, business development, workflow methodologies and more. 
+
+I enjoy working with high-volume applications and tools development with unique technical challenges as well as a chance to contribute meaningfully to product direction and strategy. 
+
+Though my background is based on doing a code 👨‍💻, my experience is at every level of application stack from product design and customer-facing to back-end implementation.
+
+I'm a Full-Stack engineer with experience working with variety of stacks. I'm not limited to any particular language of setup, let's just build 🏗️.
 
 ## Contact
-jp555soul@gmail.com
-
-## Knowledge
-
-| Language      | Time          |
-| ------------- |:-------------:|
-| XHTML      	| 11 			|
-| Java      	| 5 			|
-| JavaScript 	| 12 			|
-| Struts 		| 3 			|
-| PHP 			| 10 			|
-| XML 			| 12 			|
-| AJAX 			| 12 			|
-| MySQL 		| 11 			|
-| CSS 			| 12 			|
-| HTML 			| 12 			|
-| JSON 			| 12 			|
-| Prototype 	| 3 			|
-| RSS 			| 12 			|
-| JSP 			| 3 			|
-| Android 		| 5 			|
-| DOM 			| 10 			|
-| WordPress 	| 8 			|
-| YUI 			| 3 			|
-| jQuery 		| 12 			|
-| Subversion 	| 3 			|
-| Photoshop 	| 12 			|
-| TinyMCE 		| 8 			|
-| HTML5 		| 8 			|
-| CSS3 			| 8 			|
-| C# 			| 3 			|
-| Python 		| 4 			|
-| MVC 			| 11 			|
-| RoR 			| 3 			|
-| Haml 			| 3 			|
-| Sass 			| 5 			|
-| React 		| 3 			|
-| Angular 		| 3 			|
-| Shopify 		| 5 			|
-
-## URLs
-
-* [store.annapurna.pictures](https://store.annapurna.pictures "Shopify")
-* [kentuckyroutezero.com](http://kentuckyroutezero.tv/ "Craft CMS")
-* [florencegame.com](http://www.florencegame.com/ "Craft CMS") 
-* [wattamgame.com](http://www.wattamgame.com/ "Craft CMS") 
-* [thepathless.com](http://www.thepathless.com/ "Craft CMS") 
-* [outerwilds.com](http://outerwilds.com/ "Craft CMS") 
-* [annapurna.pictures](http://annapurna.pictures "Custom Node CMS") 
-* [naughtydog.com](http://www.naughtydog.com "Craft CMS")
-* [unchartedthegame.com](http://www.unchartedthegame.com "Wordpress")
-* [thelastofus.com](http://www.thelastofus.com "Static HTML")
-* [carlsjr.com](http://www.carlsjr.com "RoR Custom Build") 
-* [hardees.com](http://www.hardees.com "RoR Custom Build") 
-* [eonline.com](http://www.eonline.com "JSP Custom Build")
-* [fearnet.com](http://www.fearnet.com "JSP Custom Build")
-* [mystyle.com](http://www.mystyle.com "JSP Custom Build")
-* [g4tv.com](http://www.g4tv.com ".Net Custom Build")
+jmpauldevelopment@gmail.com - Available for hire 💌
 
 
 ## Experience 
 
-### Annapurna Pictures/Annpurna Interactive - Director of Technology
+### JMPaul Development LLC - Founder
+* **Clients:**
+	* [Salesforce](https://www.salesforce.com/)
+		* Ownership: Technical Architect and Lead Developer
+		* Accomplishments: Developed internal custom CMS for Hiring & Onboarding using Drupal as the underlying CMS. We were able to develop and deploy the solution ahead of the projected timeline and under budget. With the extra time, we were able to expand design updates across departments. Solution is used by multiple departments and ultilized by all 40,000+ international employees.
+	* [PixelTag](https://www.getpixeltag.com/)
+		* Ownership: Software Engineer
+		* Accomplishments: Developed custom solutions for Sales. We assisted the internal Engineering team to build out a custom Chrome Extension and Angular app for their product suite.
+	* [MRR](https://marijuanaretailreport.com/)
+		* Ownership: Technical Architect and Lead Developer
+		* Accomplishments: Developed custom themed Wordpress Multisite (3) and plugins for news organization Marijuana Retail Report.
+	* 41 Agency
+		* Ownership: Full-Stack Architect
+		* Accomplishments: Developed MVP of assisted streaming solution tools and Twitch Extensions. Built MERN apps that assited streamers interactions with customers, anayltics and intergration with brand engagments through hardware solutions (StreamDeck) and extension development (Twitch).
+	* [Vidiots Foundation](https://www.vidiotsfoundation.org/)
+		* Ownership: Full-Stack Architect
+		* Accomplishments: All site development including CMS, continuous integration, site search, daily email newsletter of upcoming events, RSVP, SEO, responsive design, and more.
+	* [Ballade Sports](https://www.balladesports.com/https://www.balladesports.com/)
+		* Ownership: Full-Stack Architect
+		* Accomplishments: Updated and developed custom theme and plugins using Wordpress as the underlying CMS. We updated the out-of-date (9 years) Wordpress instance, PHP, theme, and deprecated plugins for security updates and new payment functionality. 
 
-* Maintain all software across all properties: film, interactive, theater, etc
+
+### Annapurna Pictures/Annapurna Interactive - Director of Technology
+
+* Technical Architect for all internal and external software across all properties: film, interactive, theater, etc
 * Marketing and tools development across all properties
-* Lead internal and external teams 
-* Negotiated new vendors and contracts while also maintaining budgests
+* Lead internal team of 3 with pseudo Scrum methodology
+* Created RFP, contributed to selection of third-party vendors, and lead third-party development teams
+* Negotiated new vendors and contracts (RFP, SOW, and MSA) while also maintaining budgets
 * Shipped:
+	* Store:
+		* [Annapurna Coommisary](https://store.annapurna.pictures/ "Shopify")
+			* Shopify theme development and management, including third party integration and custom discount scripting.
 	* Games: 
-		* Gorogoa
-		* Florence
-		* Donut County
-		* Wattam
-		* Outer Wilds
-		* Kentucky Route Zero: TV Edition
-		* The Artful Escape
-		* The Pathless
+		* [Gorogoa](http://gorogoa.com/ "Static")
+		* [Florence](http://florencegame.com/ "Craft CMS")
+		* [Donut County](http://www.donutcounty.com/ "Static")
+		* [Outer Wilds](http://outerwilds.com/ "Craft CMS")
+		* [Kentucky Route Zero: TV Edition](http://kentuckyroutezero.tv/ "Craft CMS")
+		* [The Artful Escape](https://theartfulescape.com/ "Static")
+		* [The Pathless](http://www.thepathless.com/ "Craft CMS")
 	* Films:
-		* Booksmart
-		* Missing Link
-		* Where'd You Go Bernadette
-		* Vice
-		* Destroyer
-		* If Beale Street Could Talk
+		* [Booksmart](https://booksmart.movie/)
+		* [Missing Link](http://missinglink.movie/)
+		* [Where'd You Go Bernadette](https://www.bernadette.film/)
+		* [Vice](https://www.vice.movie/)
+		* [Destroyer](https://www.destroyer.movie/)
+		* [If Beale Street Could Talk](http://bealestreet.movie/)
 		* The Ballad of Buster Scruggs
-		* The Sisters Brothers
-		* Sorry To Bother You
+		* [The Sisters Brothers](http://thesistersbrothers.movie/)
+		* [Sorry To Bother You](http://sorrytobotheryou.movie/)
 		* Phantom Thread
-		* Professor Marston & The Wonder Women
-		* Detroit
+		* [Professor Marston & The Wonder Women](http://jmpaul.com/professorm/)
+		* [Detroit](http://detroit.movie/)
 
-### Naughty Dog - Software Engineer
+### Naughty Dog - Full Stack Software Engineer
 
-* Held weekly meetings discussing development web trends/best practices as well as tasks (pseudo Scrum) with Directior of Communications and Lead Designer 
-* Transitioned studio site from physical box site to proprietary eco-cloud solution which included autoscaling for a responsive and scalable produtction hosting environment.
-* Complete redesign of front-end site and back-end tools for [naughtydog.com](http://www.naughtydog.com "Craft CMS") - CraftCMS
-* Contributed to RFP, selected third-party vendor, lead third-party development team and took on development of [unchartedthegame.com](http://www.unchartedthegame.com "Wordpress") - WordPress
-* Contributed to RFP, selected third-party vendor, lead third-party development team and took on development of [thelastofus.com](http://www.thelastofus.com "Static HTML") - Static
-* Client and backend developer of Uncharted 3 multiplayer game stats (PHP). Worked with game team to create multiplayer game stats JSON API, showing user data throughout their game play history. Lead design in stats visualization and UX. - deprecated
-* Created network of brand micro sites to further the meta story of the main The Last of Us story
+* Held weekly meetings discussing development web trends/best practices as well as tasks (pseudo Scrum) with Director of Communications and Lead Designer 
+* Transitioned studio site from physical box site to proprietary eco-cloud solution which included autoscaling for a responsive and scalable production hosting environment.
+* Complete redesign of front-end site and back-end tools for [naughtydog.com](http://www.naughtydog.com "Craft CMS")
+	* CraftCMS
+* Contributed to RFP, selected third-party vendor, lead third-party development team and took on development of [unchartedthegame.com](http://www.unchartedthegame.com "Wordpress")
+	* WordPress
+* Contributed to RFP, selected third-party vendor, lead third-party development team and took on development of [thelastofus.com](http://www.thelastofus.com "Static HTML")
+	* Wordpress
+* Client and backend developer of Uncharted 3 multiplayer game stats.
+	* PHP 
+	* Worked with game team to create multiplayer game stats JSON API, showing user data throughout their game play history. Lead design in stats visualization and UX. - deprecated
+* Created network of brand microsites to further the meta story of the main The Last of Us story
 * Social Media tools integration: Facebook, Twitter, etc
-* Analytic setup, research, and reports: Google Anayltics, Omniture, Custom PHP A/B testing
-* Tools development for various teams: assisted in creation and development of internal tools
+* Analytic setup, research, and reports: Google Analytics, Omniture, Custom PHP A/B testing
+* Tools development for various teams: assisted in the creation and development of internal tools
 * Shipped:
 	* Uncharted 3: Drake's Deception (PS3)
 	* The Last of Us (PS3)
@@ -123,7 +96,7 @@ jp555soul@gmail.com
 ### 72andSunny - Web Developer
 
 * Held weekly meetings discussing development trends/best practices with developers
-* Frontend developer of high traffic micro sites
+* Frontend developer of high traffic microsites
 * Lead Frontend developer on Carls Jr and Hardees redesign
 * Maintain frontend updates to current CKE websites (Carls Jr, Hardees)
 * Maintained and updated CKE facebook pages and apps
@@ -144,7 +117,84 @@ jp555soul@gmail.com
 
 ### Ohio State University - 2007
 
-* Communication Technology 
+* New Media & Communication Technology (COT)
+
+## Skills
+*  **Raw:**
+	* Javascript
+	* HTML
+	* CSS
+	* PHP
+	* Go
+	* Dart
+	* Apex
+	* Java
+	* Python
+	* PHP
+
+* **Frameworks:**
+	* Node.js
+	* Angular.js
+	* React
+	* RoR
+	* Zend
+	* Yii
+
+* **CMS:**
+	* Wordpress
+	* Drupal
+	* Craft CMS
+	* Laravel
+	* Shopify
+	* ExpressionEngine
+	* Squarespace
+
+
+* **Databases:**
+	* MySQL
+	* Postgres
+	* MongoDB
+
+## Knowledge
+
+| Language      | Time          |
+| ------------- |:-------------:|
+| XHTML      	| 13 			|
+| Java      	| 8 			|
+| JavaScript 	| 13 			|
+| Struts 		| 3 			|
+| PHP 			| 13 			|
+| XML 			| 13 			|
+| AJAX 			| 13 			|
+| MySQL 		| 13 			|
+| CSS 			| 13 			|
+| HTML 			| 13 			|
+| JSON 			| 13 			|
+| Prototype 	| 7 			|
+| RSS 			| 13 			|
+| JSP 			| 5 			|
+| Android 		| 5 			|
+| DOM 			| 13 			|
+| WordPress 	| 10 			|
+| YUI 			| 3 			|
+| jQuery 		| 13 			|
+| Subversion 	| 3 			|
+| Photoshop 	| 13 			|
+| TinyMCE 		| 10 			|
+| HTML5 		| 10 			|
+| CSS3 			| 10 			|
+| C# 			| 6 			|
+| Python 		| 8 			|
+| MVC 			| 12 			|
+| RoR 			| 7 			|
+| Haml 			| 8 			|
+| Sass 			| 8 			|
+| React 		| 6 			|
+| Angular 		| 6 			|
+| Shopify 		| 6 			|
+| Dart 			| 2 			|
+| Go 			| 2 			|
+
 
 ## Interests/Activites
 
@@ -155,6 +205,9 @@ jp555soul@gmail.com
 * Badminton
 * Soccer
 * Photography
+
+## References
+* Given upon request
 
 
 

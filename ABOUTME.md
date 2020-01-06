@@ -14,4 +14,6 @@ Naughty Dog is a video game studio comprised of approximately 250 - 300 people. 
 
 Insert the Annapura years.
 
+Insert JMPaul and beyond.
+
 Now we’ve come to the present day. Over this journey, I’ve come to gain a better understanding of working with and on a team, managing a team and working on a product versus supplementing a product.  
