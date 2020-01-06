@@ -17,7 +17,7 @@ jmpauldevelopment@gmail.com - Available for hire
 * **Clients:**
 	* [Salesforce](https://www.salesforce.com/)
 		* Ownership: Technical Architect and Lead Developer
-		* Accomplishments: Developed internal custom CMS for Hiring & Onboarding using Drupal as the underlying CMS. We were able to develop and deploy the solution ahead of the projected timeline and under budget. With the extra time, we were able to expand design updates across departments. Solution is used by multiple departments and ultilized by all 40,000+ international employees.
+		* Accomplishments: Developed internal custom CMS for Hiring & Onboarding using Drupal as the underlying CMS. We were able to develop and deploy the solution ahead of the projected timeline and under budget. With the extra time, we were able to expand design updates across departments. Solution is used by multiple departments and utilized by all 40,000+ international employees.
 	* [PixelTag](https://www.getpixeltag.com/)
 		* Ownership: Software Engineer
 		* Accomplishments: Developed custom solutions for Sales. We assisted the internal Engineering team to build out a custom Chrome Extension and Angular app for their product suite.

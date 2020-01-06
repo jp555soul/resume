@@ -4,9 +4,9 @@ I'm Jason 👋, a Technology Consultant 🌎 and Futurist 🧠 based in LA 🏙 
 
 I enjoy working with high-volume applications and tools development with unique technical challenges as well as a chance to contribute meaningfully to product direction and strategy. 
 
-Though my background is based on doing a code 👨‍💻, my experience is at every level of application stack from product design and customer-facing to back-end implementation.
+Though my background is based on doing a code 👨‍💻, my experience is at every level of the application stack from product design and customer-facing to back-end implementation.
 
-I'm a Full-Stack engineer with experience working with variety of stacks. I'm not limited to any particular language of setup, let's just build 🏗️.
+I'm a Full-Stack engineer with experience working with a variety of stacks. I'm not limited to any particular language of setup, let's just build 🏗️.
 
 ## Contact
 jmpauldevelopment@gmail.com - Available for hire 💌
@@ -17,7 +17,7 @@ jmpauldevelopment@gmail.com - Available for hire 💌
 * **Clients:**
 	* [Salesforce](https://www.salesforce.com/)
 		* Ownership: Technical Architect and Lead Developer
-		* Accomplishments: Developed internal custom CMS for Hiring & Onboarding using Drupal as the underlying CMS. We were able to develop and deploy the solution ahead of the projected timeline and under budget. With the extra time, we were able to expand design updates across departments. Solution is used by multiple departments and ultilized by all 40,000+ international employees.
+		* Accomplishments: Developed internal custom CMS for Hiring & Onboarding using Drupal as the underlying CMS. We were able to develop and deploy the solution ahead of the projected timeline and under budget. With the extra time, we were able to expand design updates across departments. Solution is used by multiple departments and utilized by all 40,000+ international employees.
 	* [PixelTag](https://www.getpixeltag.com/)
 		* Ownership: Software Engineer
 		* Accomplishments: Developed custom solutions for Sales. We assisted the internal Engineering team to build out a custom Chrome Extension and Angular app for their product suite.
@@ -26,7 +26,7 @@ jmpauldevelopment@gmail.com - Available for hire 💌
 		* Accomplishments: Developed custom themed Wordpress Multisite (3) and plugins for news organization Marijuana Retail Report.
 	* 41 Agency
 		* Ownership: Full-Stack Architect
-		* Accomplishments: Developed MVP of assisted streaming solution tools and Twitch Extensions. Built MERN apps that assited streamers interactions with customers, anayltics and intergration with brand engagments through hardware solutions (StreamDeck) and extension development (Twitch).
+		* Accomplishments: Developed MVP of assisted streaming solution tools and Twitch Extensions. Built MERN apps that assisted streamers interactions with customers, analytics and integration with brand engagements through hardware solutions (StreamDeck) and extension development (Twitch).
 	* [Vidiots Foundation](https://www.vidiotsfoundation.org/)
 		* Ownership: Full-Stack Architect
 		* Accomplishments: All site development including CMS, continuous integration, site search, daily email newsletter of upcoming events, RSVP, SEO, responsive design, and more.
@@ -39,13 +39,13 @@ jmpauldevelopment@gmail.com - Available for hire 💌
 
 * Technical Architect for all internal and external software across all properties: film, interactive, theater, etc
 * Marketing and tools development across all properties
-* Lead internal team of 3 with pseudo Scrum methodology
-* Created RFP, contributed to selection of third-party vendors, and lead third-party development teams
+* Lead internal team of 3 with pseudo-Scrum methodology
+* Created RFP, contributed to the selection of third-party vendors, and lead third-party development teams
 * Negotiated new vendors and contracts (RFP, SOW, and MSA) while also maintaining budgets
 * Shipped:
 	* Store:
-		* [Annapurna Coommisary](https://store.annapurna.pictures/ "Shopify")
-			* Shopify theme development and management, including third party integration and custom discount scripting.
+		* [Annapurna Commissary](https://store.annapurna.pictures/ "Shopify")
+			* Shopify theme development and management, including third-party integration and custom discount scripting.
 	* Games: 
 		* [Gorogoa](http://gorogoa.com/ "Static")
 		* [Florence](http://florencegame.com/ "Craft CMS")
@@ -70,7 +70,7 @@ jmpauldevelopment@gmail.com - Available for hire 💌
 
 ### Naughty Dog - Full Stack Software Engineer
 
-* Held weekly meetings discussing development web trends/best practices as well as tasks (pseudo Scrum) with Director of Communications and Lead Designer 
+* Held weekly meetings discussing development web trends/best practices as well as tasks (pseudo-Scrum) with Director of Communications and Lead Designer 
 * Transitioned studio site from physical box site to proprietary eco-cloud solution which included autoscaling for a responsive and scalable production hosting environment.
 * Complete redesign of front-end site and back-end tools for [naughtydog.com](http://www.naughtydog.com "Craft CMS")
 	* CraftCMS
