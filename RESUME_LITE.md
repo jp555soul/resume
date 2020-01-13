@@ -13,7 +13,7 @@ jmpauldevelopment@gmail.com - Available for hire
 
 ## Experience 
 
-### JMPaul Development LLC - Founder
+### JMPaul Development LLC - Founder - Present
 * **Clients:**
 	* [Salesforce](https://www.salesforce.com/)
 		* Ownership: Technical Architect and Lead Developer
@@ -35,7 +35,7 @@ jmpauldevelopment@gmail.com - Available for hire
 		* Accomplishments: Updated and developed custom theme and plugins using Wordpress as the underlying CMS. We updated the out-of-date (9 years) Wordpress instance, PHP, theme, and deprecated plugins for security updates and new payment functionality. 
 
 
-### Annapurna Pictures/Annapurna Interactive - Director of Technology
+### Annapurna Pictures/Annapurna Interactive - Director of Technology - May 2017/Feb - 2019
 
 * Technical Architect for all internal and external software across all properties: film, interactive, theater, etc
 * Marketing and tools development across all properties
@@ -68,7 +68,7 @@ jmpauldevelopment@gmail.com - Available for hire
 		* [Professor Marston & The Wonder Women](http://jmpaul.com/professorm/)
 		* [Detroit](http://detroit.movie/)
 
-### Naughty Dog - Full Stack Software Engineer
+### Naughty Dog - Full Stack Software Engineer - Dec 2010/May - 2017
 
 * Held weekly meetings discussing development web trends/best practices as well as tasks (pseudo Scrum) with Director of Communications and Lead Designer 
 * Transitioned studio site from physical box site to proprietary eco-cloud solution which included autoscaling for a responsive and scalable production hosting environment.
@@ -92,7 +92,7 @@ jmpauldevelopment@gmail.com - Available for hire
 	* Uncharted: The Nathan Drake Collection (PS4)
 
 
-### 72andSunny - Web Developer
+### 72andSunny - Web Developer - Apr 2010/Dec - 2010
 
 * Held weekly meetings discussing development trends/best practices with developers
 * Frontend developer of high traffic microsites
@@ -102,7 +102,7 @@ jmpauldevelopment@gmail.com - Available for hire
 * Maintained and updated 2ksports facebook page and MLB online updates
 
 
-### Comcast Entertainment Group - Web Developer
+### Comcast Entertainment Group - Web Developer - Apr 2008/Apr - 2010
 ##### G4TV - E! Online - Style Network
 
 * Lead for frontend (X)HTML/CSS/JavaScript solutions adhering to W3C standards and semantic web principles
