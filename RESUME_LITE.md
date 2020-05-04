@@ -15,6 +15,9 @@ jmpauldevelopment@gmail.com - Available for hire
 
 ### JMPaul Development LLC - Founder - Present
 * **Clients:**
+	* [Seer.LA](https://www.seer.la/)
+		* Ownership: Technical Architect and Lead Developer
+		* Accomplishments: Developed private video monitoring and surveillance system.
 	* [Salesforce](https://www.salesforce.com/)
 		* Ownership: Technical Architect and Lead Developer
 		* Accomplishments: Developed internal custom CMS for Hiring & Onboarding using Drupal as the underlying CMS. We were able to develop and deploy the solution ahead of the projected timeline and under budget. With the extra time, we were able to expand design updates across departments. Solution is used by multiple departments and utilized by all 40,000+ international employees.
@@ -147,12 +150,14 @@ jmpauldevelopment@gmail.com - Available for hire
 	* Shopify
 	* ExpressionEngine
 	* Squarespace
+	* Salesforce
 
 
 * **Databases:**
 	* MySQL
 	* Postgres
 	* MongoDB
+	* NoSQL
 
 
 ## Interests/Activites
