@@ -122,43 +122,6 @@ jmpauldevelopment@gmail.com - Available for hire 💌
 
 * New Media & Communication Technology (COT)
 
-## Skills
-*  **Raw:**
-	* Javascript
-	* HTML
-	* CSS
-	* PHP
-	* Go
-	* Dart
-	* Apex
-	* Java
-	* Python
-	* PHP
-
-* **Frameworks:**
-	* Node.js
-	* Angular.js
-	* React
-	* RoR
-	* Zend
-	* Yii
-
-* **CMS:**
-	* Wordpress
-	* Drupal
-	* Craft CMS
-	* Laravel
-	* Shopify
-	* ExpressionEngine
-	* Squarespace
-
-
-* **Databases:**
-	* MySQL
-	* Postgres
-	* MongoDB
-
-
 ## Interests/Activites
 
 * 2004 NCAA National Fencing Champion
