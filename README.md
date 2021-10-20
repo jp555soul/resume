@@ -158,46 +158,6 @@ jmpauldevelopment@gmail.com - Available for hire 💌
 	* Postgres
 	* MongoDB
 
-## Knowledge
-
-| Language      | Time          |
-| ------------- |:-------------:|
-| XHTML      	| 13 			|
-| Java      	| 8 			|
-| JavaScript 	| 13 			|
-| Struts 		| 3 			|
-| PHP 			| 13 			|
-| XML 			| 13 			|
-| AJAX 			| 13 			|
-| MySQL 		| 13 			|
-| CSS 			| 13 			|
-| HTML 			| 13 			|
-| JSON 			| 13 			|
-| Prototype 	| 7 			|
-| RSS 			| 13 			|
-| JSP 			| 5 			|
-| Android 		| 5 			|
-| DOM 			| 13 			|
-| WordPress 	| 10 			|
-| YUI 			| 3 			|
-| jQuery 		| 13 			|
-| Subversion 	| 3 			|
-| Photoshop 	| 13 			|
-| TinyMCE 		| 10 			|
-| HTML5 		| 10 			|
-| CSS3 			| 10 			|
-| C# 			| 6 			|
-| Python 		| 8 			|
-| MVC 			| 12 			|
-| RoR 			| 7 			|
-| Haml 			| 8 			|
-| Sass 			| 8 			|
-| React 		| 6 			|
-| Angular 		| 6 			|
-| Shopify 		| 6 			|
-| Dart 			| 2 			|
-| Go 			| 2 			|
-
 
 ## Interests/Activites
 
